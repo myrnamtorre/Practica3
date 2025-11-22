@@ -89,7 +89,7 @@ Jupyter Notebook
 
 **Cómo ejecutar el proyecto**
 Clonar el repositorio:
-git clone https://github.com/usuario/Práctica3-CTG.git
+git clone https://github.com/myrnamtorre/Práctica3-CTG.git
 Instalar dependencias:
 pip install -r requirements.txt
 Abrir el notebook:
